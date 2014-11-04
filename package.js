@@ -1,6 +1,6 @@
 Package.describe({
     summary: "A meteor package for the stand-alone parallax scrolling library, Skrollr.",
-    version: "0.0.1",
+    version: "0.0.2",
     git: "https://github.com/tsega/meteor-skrollr.git"
 });
 
