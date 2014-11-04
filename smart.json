@@ -1,0 +1,10 @@
+{
+  "name": "skrollr",
+  "description": "A meteor package for the stand-alone parallax scrolling library, Skrollr",
+  "homepage": "https://github.com/tsega/meteor-skrollr",
+  "author": "Tsegaselassie Tadesse <tsegaselassi@gmail.com>",
+  "version": "0.0.2",
+  "git": "https://github.com/tsega/meteor-skrollr.git",
+  "packages": {
+  }
+}
